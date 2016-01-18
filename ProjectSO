@@ -107,7 +107,7 @@ if ($user_ip == " ") {
         <tr>
             <td><b>NAMA</b></td>
             <td>:</td>
-            <td>Nadya Syifa Nurhadiyah
+            <td>Nadya Syifa Nurhadiyah</td>
         </tr>
         <tr>
             <td><b>KELAS</b></td>
@@ -127,7 +127,7 @@ if ($user_ip == " ") {
         <tr>
             <td><b>IP</b></td>
             <td>:</td>
-            <td><?php echo $user_ip ;?></td>
+            <td><?php echo $IPnya ;?></td>
         </tr>
         <tr>
             <td><b>NEGARA</b></td>
